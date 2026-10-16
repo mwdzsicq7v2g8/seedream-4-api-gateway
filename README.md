@@ -104,6 +104,16 @@ Runnable versions: [`examples/`](examples). The task lifecycle is `pending → p
 
 Use the [Get an API key](https://go.apimart.ai/k-58cd19) link — $1 minimum top-up, no plan required.
 
+<!-- related-repos:auto -->
+## Related repositories
+
+- **Same model, other languages** — 9 more language builds: 中文 [seedream-4-api-cn](https://github.com/n7q72nsidq42w/seedream-4-api-cn) · Deutsch [seedream-4-api-de](https://github.com/yhkrslhp2s019k/seedream-4-api-de) · Español [seedream-4-api-es](https://github.com/yft1f3cb8wp/seedream-4-api-es) · Français [seedream-4-api-fr](https://github.com/t90p6sruvq/seedream-4-api-fr) · Bahasa [seedream-4-api-id](https://github.com/h2zpbl/seedream-4-api-id) · 日本語 `seedream-4-api-ja` · 한국어 [seedream-4-api-ko](https://github.com/ry93x5wv1d7e/seedream-4-api-ko) · Português [seedream-4-api-pt](https://github.com/sr35u/seedream-4-api-pt) · Русский [seedream-4-api-ru](https://github.com/f4oaqsu7whztd/seedream-4-api-ru)
+- **More models in this language** — [midjourney-api-gateway](https://github.com/apimartxc3iskw/midjourney-api-gateway) · [gemini-2-5-flash-image-preview-api-gateway](https://github.com/mcqdlebg/gemini-2-5-flash-image-preview-api-gateway) · [nano-banana-api-gateway](https://github.com/gix2kust/nano-banana-api-gateway) · [gemini-3-1-flash-image-preview-api-gateway](https://github.com/nn6jtthao8/gemini-3-1-flash-image-preview-api-gateway) · [nano-banana-2-api-gateway](https://github.com/u9mdw3pt594q2r/nano-banana-2-api-gateway) · [gemini-3-pro-image-preview-api-gateway](https://github.com/uqu9q/gemini-3-pro-image-preview-api-gateway)
+- **Topic hubs** — every build of this model, all languages: [seedream-4](https://github.com/topics/seedream-4) · [seedream-4-api](https://github.com/topics/seedream-4-api)
+
+This repository is one build in a cross-linked set of API guides for the same model family; each language build links back to the others.
+<!-- /related-repos:auto -->
+
 ## Attributed links (how this repository is measured)
 
 | Purpose | Attributed link | Target |
